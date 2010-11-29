@@ -1,0 +1,4 @@
+name: Enum
+
+sources:
+  - Source/Enum.js
